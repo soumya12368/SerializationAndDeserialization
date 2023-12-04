@@ -1,0 +1,14 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day21\SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\net6.0\SerializationAndDeserialization.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day21\SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\net6.0\SerializationAndDeserialization.deps.json
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day21\SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\net6.0\SerializationAndDeserialization.runtimeconfig.json
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day21\SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\net6.0\SerializationAndDeserialization.dll
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day21\SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\net6.0\SerializationAndDeserialization.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day21\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\net6.0\SerializationAndDeserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day21\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\net6.0\SerializationAndDeserialization.AssemblyInfoInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day21\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\net6.0\SerializationAndDeserialization.AssemblyInfo.cs
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day21\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\net6.0\SerializationAndDeserialization.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day21\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\net6.0\SerializationAndDeserialization.dll
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day21\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\net6.0\refint\SerializationAndDeserialization.dll
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day21\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\net6.0\SerializationAndDeserialization.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day21\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\net6.0\SerializationAndDeserialization.genruntimeconfig.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day21\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\net6.0\ref\SerializationAndDeserialization.dll
